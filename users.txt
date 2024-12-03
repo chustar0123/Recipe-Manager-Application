@@ -1,0 +1,5 @@
+UserId    Username            Password                                Email                         
+1         Chumani01           nVR4cQ2e                                                        Chumani@gmail.com             
+2         Kamvelihle          cthgfELC                                                        Kamvelihle@gmail.com          
+3         Kungawo01           76hVSDXz                                                        Kungawo@gmail.com             
+4         MonPen123           LyDHczmv                                                        MonPen@gmail.com              
